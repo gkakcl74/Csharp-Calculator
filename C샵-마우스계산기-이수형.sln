@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C샵-마우스계산기-이수형", "C샵-마우스계산기-이수형\C샵-마우스계산기-이수형.csproj", "{3A2BABC6-12FD-4175-95E8-91E80DE2D136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2BABC6-12FD-4175-95E8-91E80DE2D136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2BABC6-12FD-4175-95E8-91E80DE2D136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2BABC6-12FD-4175-95E8-91E80DE2D136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2BABC6-12FD-4175-95E8-91E80DE2D136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE22105-EF31-4587-B5A5-038AE5E7A3D6}
+	EndGlobalSection
+EndGlobal
